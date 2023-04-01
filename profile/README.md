@@ -1,6 +1,6 @@
 # AvinyaExports
 
-![Avinya Exports Logo](https://github.com/AvinyaExports/.github-private/blob/main/profile/AvinyaExportsAnimated.gif)
+![Avinya Exports Logo](https://github.com/AvinyaExports/.github/blob/main/profile/AvinyaExportsAnimated.gif)
 
 Welcome to AvinyaExports! We are a global export company that specializes in exporting high-quality goods from India. Our goal is to provide our customers with the best products and services possible, ensuring their complete satisfaction.
 
